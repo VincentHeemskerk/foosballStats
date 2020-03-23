@@ -22,18 +22,21 @@
         <!-- input form for new game -->
         <div id='newgame'>
             <form action="" id="newgameform" name='newgame'>
-                <select name="player1" id="player1select"></select>
-                <select name="player2" id="player2select"></select>
+                <select name="player1" id="player1select" class='playerselect'></select>
+                <select name="player2" id="player2select" class='playerselect'></select>
                 <select name="scorePlayer1" id="player1score"></select>
                 <select name="scorePlayer2" id="player2score"></select>
                 <input type="submit" value='enter results' />
             </form>
         </div>
     </section>
+    <section id='overview'>
+        <input value='test' readonly type='text' />
+    </section>
     <footer>
 
     </footer>
-    <script src='./scripts//scripts.js'></script>
+    <script src='./scripts/scripts.js' type="module"></script>
 </body>
 
 </html>
