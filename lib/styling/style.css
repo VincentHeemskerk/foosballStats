@@ -1,3 +1,13 @@
 section {
+    margin-top: 50px;
     border-bottom: 2px solid #e3e3e3;
+}
+
+form {
+    padding: 20px;
+}
+
+select {
+    min-width: 100px;
+    min-height: 20px;
 }
