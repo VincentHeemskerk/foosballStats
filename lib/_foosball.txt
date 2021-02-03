@@ -17,9 +17,6 @@
 "domi":{
   "name": "domi"
 },
-"toon":{
-  "name": "toon"
-},
 "daan":{
   "name": "daan"
 }
