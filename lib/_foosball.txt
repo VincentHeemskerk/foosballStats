@@ -1,23 +1,6 @@
-{
-"vincent":{
-  "name": "vincent"
-},
-"jenny":{
-  "name": "jenny"
-},
-"hans":{
-  "name": "hans"
-},
-"stephan":{
-  "name": "stephan"
-},
-"rudolph":{
-  "name": "rudolph"
-},
-"domi":{
-  "name": "domi"
-},
-"daan":{
-  "name": "daan"
-}
-}
+vincent,
+domi,
+jenny,
+jerry,
+axel,
+jop,
